@@ -2,7 +2,7 @@
 
 ### Facts about me ###
 
-1 - Eu amo programação e sempre to buscando aperfeiçoamento na área
+1 - Eu amo programação e sempre estou buscando aperfeiçoamento na área
 
 2 - Tudo que sei até hoje sobre programação aprendi sozinho nunca fiz Cursos/Faculdade
 
