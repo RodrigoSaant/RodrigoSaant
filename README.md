@@ -4,7 +4,7 @@
 
 1 - Eu amo programação e sempre estou buscando aperfeiçoamento na área
 
-2 - Tudo que sei até hoje sobre programação aprendi sozinho nunca fiz Cursos/Faculdade
+2 - Eu sou Autodidata
 
 3 - Sou extremamente dedicado no que eu faço e amo trabalhar em equipe
 
