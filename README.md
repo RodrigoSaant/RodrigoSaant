@@ -16,9 +16,9 @@ Sou Estágiario em segurança da informação, procuro uma oportunidade para ing
   <a href="https://www.linkedin.com/in/rodrigo-santoro-96092116b/"</a>
 
     
-![Whatsapp]: https://wa.me/5511939407694
+![Whatsapp](https://wa.me/5511939407694)
 
-![Button Example]: https://img.shields.io/badge/Title-37a779?style=for-the-badge
+![Button Example] (https://img.shields.io/badge/Title-37a779?style=for-the-badge)
 
 ### Languages ###
 <div>
