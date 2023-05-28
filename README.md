@@ -1,12 +1,10 @@
 ![Null](https://user-images.githubusercontent.com/78233552/155364937-91d800a7-9c6e-4631-bfcc-96d52de6c4fc.gif)
 
-### Facts about me ###
+### About Me ###
 
-1 - Eu amo programação e sempre estou buscando aperfeiçoamento na área
+Sou Estágiario em segurança da informação, procuro uma oportunidade para ingressar na área.
 
-2 - Eu sou Autodidata
 
-3 - Sou extremamente dedicado no que eu faço e amo trabalhar em equipe
 
 
 ### Social networks ###
