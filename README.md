@@ -9,13 +9,12 @@ Sou Estágiario em segurança da informação, procuro uma oportunidade para ing
 
 ### Social networks ###
 <div>
-<a href="https://www.linkedin.com/in/rodrigo-santoro-96092116b/">
-  
-![LinkedIn-0077B5_style=for-the-badge logo=linkedin logoColor=white](https://user-images.githubusercontent.com/78233552/155370280-9f0bf205-cf7e-4667-b39a-4c98dfb72cdf.png)</a>
 
-<a href="https://api.whatsapp.com/send?phone=5511939407694">
+  
+![LinkedIn-0077B5_style=for-the-badge logo=linkedin logoColor=white](https://user-images.githubusercontent.com/78233552/155370280-9f0bf205-cf7e-4667-b39a-4c98dfb72cdf.png) href="https://www.linkedin.com/in/rodrigo-santoro-96092116b/"</a>
+
     
-![WhatsApp-25D366_style=for-the-badge logo=whatsapp logoColor=white](https://user-images.githubusercontent.com/78233552/155373787-a74af945-f2b1-49c4-9f47-7874e4663779.png) </a>
+![WhatsApp-25D366_style=for-the-badge logo=whatsapp logoColor=white](https://user-images.githubusercontent.com/78233552/155373787-a74af945-f2b1-49c4-9f47-7874e4663779.png) href="https://api.whatsapp.com/send?phone=5511939407694" </a>
 </div>
 
 ### Languages ###
