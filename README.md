@@ -2,7 +2,7 @@
 
 ### About Me ###
 
-Sou Estágiario em segurança da informação, procuro uma oportunidade para ingressar na área.
+Sou Estagiário em segurança da informação, procuro uma oportunidade para ingressar na área.
 
 
 
