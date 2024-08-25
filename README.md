@@ -2,8 +2,9 @@
 
 ### About Me ###
 
-Sou Estagiário em segurança da informação, procuro uma oportunidade para ingressar na área.
+👋 Olá, me chamo Rodrigo!
 
+Sou um desenvolvedor apaixonado por segurança da informação e desenvolvimentos de sistemas.
 
 
 
