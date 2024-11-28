@@ -4,7 +4,7 @@
 
 👋 Olá, me chamo Rodrigo!
 
-Sou um desenvolvedor apaixonado por segurança da informação e desenvolvimentos de sistemas.
+Sou um desenvolvedor interessado por segurança da informação e desenvolvimentos de sistemas.
 
 
 
