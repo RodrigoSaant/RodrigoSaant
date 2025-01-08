@@ -2,9 +2,9 @@
 
 ### About Me ###
 
-👋 Olá, me chamo Rodrigo!
+👋 Hi, my name is Rodrigo!
 
-Sou um desenvolvedor interessado por segurança da informação e desenvolvimentos de sistemas.
+I'm a developer interested in information security and systems development.
 
 
 
