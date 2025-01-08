@@ -4,7 +4,7 @@
 
 👋 Hi, my name is Rodrigo!
 
-I'm a developer interested in information security and systems development.
+I'm a developer interested in Cybersecurity and System development.
 
 
 
